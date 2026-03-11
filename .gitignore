@@ -104,3 +104,4 @@ ENV/
 *.swm
 *.swo
 *.swp
+*.pcap
